@@ -55,5 +55,5 @@ Algoritmo practicaCompara
     Si n1 = n2 Y n1 = n3 Entonces
         Escribir "Los números son iguales."	
 	Fin Si
-	
+	//hola gracias	
 FinAlgoritmo
